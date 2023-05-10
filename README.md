@@ -1,5 +1,5 @@
-# bootstrap-button
-bootstrap button scss include functions variables and mixin
+# bootstrap-table
+bootstrap table scss include functions variables and mixin
 
 ## Variables
 
