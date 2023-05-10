@@ -1,4 +1,4 @@
-# bootstrap-table
+# bootstrap-table (for customization porpuse)
 bootstrap table scss include functions variables and mixin
 
 ## Variables
